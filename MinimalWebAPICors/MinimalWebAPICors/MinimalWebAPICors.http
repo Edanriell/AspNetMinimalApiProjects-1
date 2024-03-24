@@ -1,0 +1,6 @@
+@MinimalWebAPICors_HostAddress = http://localhost:5150
+
+GET {{MinimalWebAPICors_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

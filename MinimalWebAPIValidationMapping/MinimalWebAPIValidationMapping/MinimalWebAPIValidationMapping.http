@@ -1,0 +1,6 @@
+@MinimalWebAPIValidationMapping_HostAddress = http://localhost:5017
+
+GET {{MinimalWebAPIValidationMapping_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

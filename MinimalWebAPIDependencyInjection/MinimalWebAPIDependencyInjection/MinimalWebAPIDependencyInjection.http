@@ -1,0 +1,6 @@
+@MinimalWebAPIDependencyInjection_HostAddress = http://localhost:5290
+
+GET {{MinimalWebAPIDependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

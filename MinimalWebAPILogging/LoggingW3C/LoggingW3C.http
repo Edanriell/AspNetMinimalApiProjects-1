@@ -1,0 +1,6 @@
+@LoggingW3C_HostAddress = http://localhost:5189
+
+GET {{LoggingW3C_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@MinimalWebAPIError_HostAddress = http://localhost:5262
+
+GET {{MinimalWebAPIError_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

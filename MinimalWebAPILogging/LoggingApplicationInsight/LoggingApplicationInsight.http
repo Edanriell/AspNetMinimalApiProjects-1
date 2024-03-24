@@ -1,0 +1,6 @@
+@LoggingApplicationInsight_HostAddress = http://localhost:5212
+
+GET {{LoggingApplicationInsight_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
